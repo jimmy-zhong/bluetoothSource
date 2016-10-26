@@ -1,0 +1,4 @@
+<workspace>
+ <project path="source.xip" />
+ <project path="../../kalimba/apps/a2dp_source/sbc_encoder.xip" />
+</workspace>

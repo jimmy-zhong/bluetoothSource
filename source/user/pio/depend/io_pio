@@ -1,0 +1,7 @@
+user/pio/io_pio.o: user/pio/io_pio.c \
+  C:/ADK4.0.0/tools/include/firmware/pio.h \
+  C:/ADK4.0.0/tools/include/standard/csrtypes.h \
+  C:/ADK4.0.0/tools/include/firmware/app/pio/pio_if.h \
+  C:/ADK4.0.0/tools/include/standard/assert.h \
+  C:/ADK4.0.0/tools/include/firmware/panic.h io_pio.h \
+  config_product_pio.h

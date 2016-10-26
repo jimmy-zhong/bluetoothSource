@@ -1,0 +1,8 @@
+user/i2c/io_i2c.o: user/i2c/io_i2c.c \
+  C:/ADK4.0.0/tools/include/firmware/i2c.h \
+  C:/ADK4.0.0/tools/include/standard/csrtypes.h \
+  C:/ADK4.0.0/tools/include/standard/assert.h \
+  C:/ADK4.0.0/tools/include/firmware/panic.h \
+  C:/ADK4.0.0/tools/include/standard/memory.h \
+  C:/ADK4.0.0/tools/include/standard/stdlib.h \
+  C:/ADK4.0.0/tools/include/standard/string.h io_i2c.h

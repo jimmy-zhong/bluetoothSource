@@ -1,0 +1,21 @@
+# ignore all c object file (*.o)
+*.o
+
+# ignore all python lib file (*.pyc)_
+*.pyc
+
+# ignore project related files
+*.app
+merge.xdv
+merge.xpv
+*.dbg
+*.map
+*.psr_
+*.sym
+*.xap
+*.fs
+*.pre
+*.*.mak
+*.dfu
+depend/
+

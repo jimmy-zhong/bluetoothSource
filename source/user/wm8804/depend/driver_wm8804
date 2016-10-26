@@ -1,0 +1,3 @@
+user/wm8804/driver_wm8804.o: user/wm8804/driver_wm8804.c \
+  user/wm8804/driver_wm8804.h C:/ADK4.0.0/tools/include/firmware/i2c.h \
+  C:/ADK4.0.0/tools/include/standard/csrtypes.h

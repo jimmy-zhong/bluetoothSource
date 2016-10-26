@@ -1,0 +1,56 @@
+source_inquiry.o: source_inquiry.c source_inquiry.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/connection.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/connection_no_ble.h \
+  C:/ADK4.0.0/tools/include/firmware/bdaddr_.h \
+  C:/ADK4.0.0/tools/include/standard/csrtypes.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/library.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/vmtypes.h \
+  C:/ADK4.0.0/tools/include/firmware/message.h \
+  C:/ADK4.0.0/tools/include/firmware/sink_.h \
+  C:/ADK4.0.0/tools/include/firmware/message_.h \
+  C:/ADK4.0.0/tools/include/firmware/app/message/system_message.h \
+  C:/ADK4.0.0/tools/include/firmware/app/adc/adc_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/usb/usb_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/vm/vm_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/capsense/capsense_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/partition/partition_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/infrared/infrared_if.h \
+  C:/ADK4.0.0/tools/include/firmware/source_.h \
+  C:/ADK4.0.0/tools/include/firmware/app/status/status_if.h \
+  source_app_msg_handler.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/csr_ag_audio_plugin.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/audio_plugin_if.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/power.h \
+  C:/ADK4.0.0/tools/include/firmware/adc.h \
+  C:/ADK4.0.0/tools/include/firmware/charger.h \
+  C:/ADK4.0.0/tools/include/firmware/app/charger/charger_if.h \
+  C:/ADK4.0.0/tools/include/firmware/stream.h \
+  C:/ADK4.0.0/tools/include/firmware/transform_.h \
+  C:/ADK4.0.0/tools/include/firmware/app/file/file_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/uart/uart_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/stream/stream_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/bluestack/types.h \
+  C:/ADK4.0.0/tools/include/standard/limits.h \
+  C:/ADK4.0.0/tools/include/firmware/app/audio/audio_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/ringtone/ringtone_if.h \
+  C:/ADK4.0.0/tools/include/firmware/app/ringtone/ringtone_notes.h \
+  C:/ADK4.0.0/tools/include/firmware/panic.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/bdaddr.h \
+  C:/ADK4.0.0/tools/include/firmware/app/bluestack/bluetooth.h \
+  C:/ADK4.0.0/tools/include/standard/string.h source_debug.h \
+  source_memory.h source_private.h source_a2dp.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/a2dp.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/csr_a2dp_encoder_common_plugin.h \
+  source_aghfp.h source_aghfp_msg_handler.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/aghfp.h \
+  source_audio.h C:/ADK4.0.0/tools/include/firmware/pio.h \
+  C:/ADK4.0.0/tools/include/firmware/app/pio/pio_if.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/pio_common.h \
+  source_avrcp.h source_avrcp_msg_handler.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/avrcp.h \
+  source_button_handler.h source_buttons.h source_connection_mgr.h \
+  source_ps.h C:/ADK4.0.0/tools/include/standard/stdlib.h source_states.h \
+  source_usb.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/usb_device_class.h \
+  C:/ADK4.0.0/tools/include/firmware/sink.h source_volume.h \
+  C:/ADK4.0.0/tools/include/profiles/BlueLab-7.0.1-Release/audio.h
